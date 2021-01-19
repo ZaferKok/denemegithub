@@ -5,5 +5,6 @@ public class denemeclass {
         System.out.println("github giris");
         System.out.println("github devam");
         System.out.println("github hadi artık");
+        System.out.println("master denemesi");
     }
 }
